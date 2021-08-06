@@ -1,0 +1,33 @@
+{
+    "nombre": "Listado de ropa",
+    "listado": [
+        {
+            "Tipo": "Tapado",
+            "Color": "Rojo",
+            "Estampado": "No",
+            "Botones": "Si",
+            "Temporada": "Invierno"
+        },
+        {
+            "Tipo": "Saco",
+            "Color": "Negro y Rojo",
+            "Estampado": "Si",
+            "Botones": "No",
+            "Temporada": "Invierno"
+        },
+        {
+            "Tipo": "Camisa",
+            "Color": "Blanca",
+            "Estampado": "No",
+            "Botones": "Si",
+            "Temporada": "Todo el año"
+        },
+        {
+            "Tipo": "Kimono",
+            "Color": "Negro",
+            "Estampado": "Si",
+            "Botones": "No",
+            "Temporada": "Todo el año"
+        }
+    ]
+}
